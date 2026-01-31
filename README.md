@@ -1,15 +1,15 @@
 # Data Structures & Algorithms – Semester 3 Learning Repository
 
-## 📖 Repository Overview
+##  Repository Overview
 This repository is my personal learning archive for **Data Structures and Algorithms (DSA)** during the **3rd semester at UBIT, University of Karachi**.  
 It contains all the code implementations, logic breakdowns, and algorithmic optimizations practiced in class.
 
-## 🎯 Purpose of This Repository
+##  Purpose of This Repository
 * **Algorithm Mastery:** Implement and optimize fundamental algorithms.
 * **Problem Solving:** Solve complex data structure problems with efficient logic.
 * **Organized Reference:** Build a structured log of course progress for technical interviews.
 
-## 🏫 Course Details
+##  Course Details
 * **University:** University of Karachi – UBIT (Department of Computer Science)  
 * **Course Name:** Data Structures and Algorithms  
 * **Semester:** 3rd Semester (2026)  
@@ -28,7 +28,7 @@ It contains all the code implementations, logic breakdowns, and algorithmic opti
 
 
 
-## 📌 Notes
+##  Notes
 * This repository is updated weekly following the curriculum of Sir Shahrukh.
 
 ---
@@ -36,7 +36,7 @@ It contains all the code implementations, logic breakdowns, and algorithmic opti
 ## 🛡️ License
 This repository is for educational purposes only. Codes are written for personal learning and academic documentation.
 
-## 👤 Contributor
+##  Contributor
 **Name:** Tehreem Rana  
 **Program:** BS Software Engineering (BSSE) – Batch 2025  
 **LinkedIn:** [https://www.linkedin.com/in/tehreem22/](https://www.linkedin.com/in/tehreem22/)

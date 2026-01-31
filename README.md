@@ -39,4 +39,4 @@ This repository is for educational purposes only. Codes are written for personal
 ## 👤 Contributor
 **Name:** Tehreem Rana  
 **Program:** BS Software Engineering (BSSE) – Batch 2025  
-**LinkedIn:** [Tehreem Rana](https://www.linkedin.com/in/tehreem22/)
+**LinkedIn:** [Tehreem Rana](https://www.linkedin.com/in/tehreem22/)[https://www.linkedin.com/in/tehreem22/]

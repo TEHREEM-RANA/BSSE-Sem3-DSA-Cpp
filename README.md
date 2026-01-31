@@ -36,5 +36,5 @@ This repository is for educational purposes only. Codes are written for personal
 
 ##  Notes
 * This repository is updated weekly following the curriculum of Sir Shahrukh.
-Feel free to explore and give it a ⭐ if you like it!
+* Feel free to explore and give it a ⭐ if you like it!
 ---

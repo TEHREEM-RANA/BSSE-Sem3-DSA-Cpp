@@ -2,7 +2,7 @@
 
 ##  Repository Overview
 This repository is my personal learning archive for **Data Structures and Algorithms (DSA)** during the **3rd semester at UBIT, University of Karachi**.  
-It contains all the code implementations, logic breakdowns, and algorithmic optimizations practiced in class.
+
 
 ##  Purpose of This Repository
 * **Algorithm Mastery:** Implement and optimize fundamental algorithms.
@@ -26,13 +26,6 @@ It contains all the code implementations, logic breakdowns, and algorithmic opti
 | **Trees** | BST, AVL, Heaps | ⏳ Upcoming |
 | **Graphs** | BFS, DFS, Shortest Path | ⏳ Upcoming |
 
-
-
-##  Notes
-* This repository is updated weekly following the curriculum of Sir Shahrukh.
-
----
-
 ## 🛡️ License
 This repository is for educational purposes only. Codes are written for personal learning and academic documentation.
 
@@ -40,3 +33,8 @@ This repository is for educational purposes only. Codes are written for personal
 **Name:** Tehreem Rana  
 **Program:** BS Software Engineering (BSSE) – Batch 2025  
 **LinkedIn:** [https://www.linkedin.com/in/tehreem22/](https://www.linkedin.com/in/tehreem22/)
+
+##  Notes
+* This repository is updated weekly following the curriculum of Sir Shahrukh.
+Feel free to explore and give it a ⭐ if you like it!
+---

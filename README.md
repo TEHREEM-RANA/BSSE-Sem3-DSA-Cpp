@@ -19,7 +19,7 @@ This repository is my personal learning archive for **Data Structures and Algori
 
 | Topic / Category | Specific Algorithms | Status |
 | :--- | :--- | :--- |
-| **Sorting** | Bubble, Selection, Insertion Sort, Radix Sort | ✅ Completed |
+| **Sorting** | Bubble, Selection, Insertion Sort, Radix , Merge , Quick  | ✅ Completed |
 | **Searching** | Linear & Binary Search | ✅ Completed |
 | **Linked Lists** | Singly, Doubly, Circular | ⏳ Upcoming |
 | **Stacks & Queues** | Array & Linked List Basis | ⏳ Upcoming |

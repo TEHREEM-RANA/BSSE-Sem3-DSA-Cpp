@@ -1,4 +1,4 @@
-// mid always first value 
+
 #include <iostream>
 using namespace std;
 

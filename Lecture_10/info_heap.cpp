@@ -2,6 +2,7 @@
 
 Definition:
 Heap Sort is a comparison-based sorting algorithm that sorts an array using a binary heap data structure.
+Heap Sort is similar to selection sort 
 
 Working Principle
 Build a Max Heap: 

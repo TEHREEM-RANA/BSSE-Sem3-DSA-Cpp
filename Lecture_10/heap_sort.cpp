@@ -1,21 +1,4 @@
-// her bar sab sy bara num nikalna or usy last per rakh dena array ky 
-/*
-Rule:
-👉 Parent hamesha children se bada hota hai
-Heap Sort Working (3 Major Steps)
-🟢 STEP 1: Array → Max Heap banao
-🟡 STEP 2: Root (max) ko last pe swap karo
-🔴 STEP 3: Heap size kam karo + dobara heapify
 
-
-Cycle I → Build Heap
-
-👉 Array ko heap banaya
-🟡 Cycle II → Repeat Heapify
-👉 Structure maintain kiya
-🔴 Cycle III → Sorting
-👉 Har baar max element end pe
-*/
 
 #include <iostream>
 using namespace std;
